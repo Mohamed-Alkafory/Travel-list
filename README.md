@@ -4,7 +4,7 @@ A React-based packing list application that helps travelers keep track of items 
 
 ## About This Project
 
-This project was built following **The Complete JavaScript Course 2024: From Zero to Expert!** by **Jonas Schmedtmann**, one of the most comprehensive and highly-rated JavaScript courses available.
+This project was built following **The Ultimate React Course 2025: React, Next.js, Redux & More** by **Jonas Schmedtmann**, one of the most comprehensive and highly-rated React courses available.
 
 ## Features
 
@@ -93,10 +93,10 @@ Through building this project, you'll learn:
 ## Course Information
 
 **Instructor:** Jonas Schmedtmann  
-**Course:** The Complete JavaScript Course 2024: From Zero to Expert!  
+**Course:** The Ultimate React Course 2025: React, Next.js, Redux & More  
 **Platform:** Udemy
 
-This course covers fundamental to advanced JavaScript concepts and is perfect for anyone looking to master JavaScript and modern web development.
+This course is the ultimate guide to modern React development, covering React fundamentals, advanced patterns, Next.js, Redux, and much more. Perfect for anyone looking to master React and build professional web applications.
 
 ## License
 
